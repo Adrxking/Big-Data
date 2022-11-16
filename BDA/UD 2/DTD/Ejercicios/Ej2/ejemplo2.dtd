@@ -1,0 +1,6 @@
+<!ELEMENT Autor (Nombre, Indice)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Indice (Elemento*)>
+<!ELEMENT Elemento (#PCDATA|Subelemento)*>
+<!ELEMENT Subelemento (#PCDATA|Subsubelemento)*>
+<!ELEMENT Subsubelemento (#PCDATA)>

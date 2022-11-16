@@ -1,0 +1,58 @@
+{
+  "Autor": {
+    "Nombre_Apellido": "Pedro Salinas",
+    "Indice": {
+      "Elemento": [
+        {
+          "Nombre": "Biografía",
+          "Subelemento": [
+            "Primeros años",
+            "Matrimonio y cátedra",
+            "Santander",
+            "Guerra civil y exilio"
+          ]
+        },
+        {
+          "Nombre": "Poeta del 27",
+          "Subelemento": [
+            "Etapas poéticas",
+            "Poeta del amor"
+          ]
+        },
+        "Prosista",
+        "Dramaturgo",
+        {
+          "Nombre": "Obra",
+          "Subelemento": [
+            {
+              "Nombre": "Poesía",
+              "Obras": [
+                "Presagio, Madrid, Índice, 1923",
+                "Seguro azar, Madrid, Revista de Occidente, 1929",
+                "Fábula y signo, Madrid, Plutarco, 1931",
+                "La voz a ti debida, Madrid, Signo, 1933",
+                "Razón de amor, Madrid, Ediciones del Árbol; Cruz y Raya, 1936guel N. Lira, 1938",
+                "Lost Angel and Other Poems, Baltimore, The Johns Hopkins Press, 1938 (antología bilingüe con poemas inéditos. Trad. de Eleanor L. Thurnbull)",
+                "Poesía junta, Buenos Aires, Losada, 1942",
+                "El contemplado (Mar; poema), México, Nueva Floresta; Stylo, 1946",
+                "Todo más claro y otros poemas, Buenos Aires, Sudamericana, 1949",
+                "Poesías completas, Madrid, Aguilar, 1955 (incluye el libro inédito Confianza)",
+                "Poesías completas, Madrid, Aguilar, 1956 (edición de Juan Marichal)",
+                "Volverse y otros poemas, Milán, All'insegna del pesce d'oro, 1957",
+                "Poesía completas, Barcelona, Barral, 1971"
+              ]
+            },
+            "Teatro",
+            "Traducciones",
+            "Narrativa",
+            "Ensayo",
+            "Epistolario"
+          ]
+        },
+        "Referencias",
+        "Notas",
+        "Bibliografía"
+      ]
+    }
+  }
+}

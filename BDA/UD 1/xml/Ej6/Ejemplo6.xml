@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Factura>
+  <Empresa nombre="Holded SA">
+    <direccion>Joan de Borbó, 101. Barcelona(08001), Barcelona, España</direccion>
+    <NIF>XXXXXXXX</NIF>
+    <correo>aldo.solanas@holded.com</correo>
+    <telefono>932710167</telefono>
+  </Empresa>
+  <Simplificacion identificacion="#T190030">
+    <Fecha>09/25/2019</Fecha>
+    <Articulos>
+      <Articulo>
+        <Nombre>Gafas Sol</Nombre>
+        <Descripcion>Warfare</Descripcion>
+        <Precio>90,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>90,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>108,90€</Total>
+      </Articulo>
+      <Articulo>
+        <Nombre>VANS bambas</Nombre>
+        <Descripcion>bamba de color negro old school</Descripcion>
+        <Precio>70,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>70,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>84,70€</Total>
+      </Articulo>
+      <Articulo>
+        <Nombre>Beanie</Nombre>
+        <Descripcion>Talla M</Descripcion>
+        <Precio>25,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>25,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>30,25€</Total>
+      </Articulo>
+      <Articulo>
+        <Nombre>Tabla de surf</Nombre>
+        <Descripcion>Modelo 6.3</Descripcion>
+        <Precio>356,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>356,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>430,76€</Total>
+      </Articulo>
+      <Articulo>
+        <Nombre>Camiseta nike</Nombre>
+        <Descripcion>Negra L</Descripcion>
+        <Precio>22,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>22,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>26,62€</Total>
+      </Articulo>
+      <Articulo>
+        <Nombre>Camiseta nike</Nombre>
+        <Descripcion>Blanca XL</Descripcion>
+        <Precio>22,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>22,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>26,62€</Total>
+      </Articulo>
+      <Articulo>
+        <Nombre>Guantes</Nombre>
+        <Descripcion>Piel reforzada / negro</Descripcion>
+        <Precio>12,00€</Precio>
+        <Unidades>1</Unidades>
+        <Subtotal>12,00€</Subtotal>
+        <IVA>21%</IVA>
+        <Total>14,52€</Total>
+      </Articulo>
+    </Articulos>
+    <Precio>
+      <BaseImponible>597,00€</BaseImponible>
+      <IVA porcentaje="21">125,37€</IVA>
+      <Total>722,37€</Total>
+    </Precio>
+  </Simplificacion>
+  <Pago tipo="Transferencia">
+    <direccion>ES662100641840123456789</direccion>
+  </Pago>
+
+</Factura>

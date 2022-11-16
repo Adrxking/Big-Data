@@ -1,0 +1,86 @@
+{
+  "Empresa": "Holded SA",
+  "Direccion": "Joan de Borbó, 101. Barcelona(08001), Barcelona, España",
+  "NIF": "XXXXXXXXX",
+  "correo": "aldo.solanas@holded.com",
+  "telefono": "932710167",
+  "simplificacion": {
+    "fecha": "09/05/2019",
+    "articulos": [
+      {
+        "nombre": "Gafas sol",
+        "descripcion": "Warfare",
+        "precio": 90,
+        "unidades": 1,
+        "subtotal": 90,
+        "IVA": 21,
+        "total": 108.90
+      },
+      {
+        "nombre": "VANS bambas",
+        "descripcion": "bamba de color negro old school",
+        "precio": 70,
+        "unidades": 1,
+        "subtotal": 70,
+        "IVA": 21,
+        "total": 84.70
+      },
+      {
+        "nombre": "Beanie",
+        "descripcion": "Talla M",
+        "precio": 25,
+        "unidades": 1,
+        "subtotal": 25,
+        "IVA": 21,
+        "total": 30.25
+      },
+      {
+        "nombre": "Tabla de surf",
+        "descripcion": "Modelo 6.3",
+        "precio": 356,
+        "unidades": 1,
+        "subtotal": 356,
+        "IVA": 21,
+        "total": 430.76
+      },
+      {
+        "nombre": "Camiseta nike",
+        "descripcion": "Negra L",
+        "precio": 22,
+        "unidades": 1,
+        "subtotal": 22,
+        "IVA": 21,
+        "total": 26.62
+      },
+      {
+        "nombre": "Camiseta nike",
+        "descripcion": "Blanca XL",
+        "precio": 22,
+        "unidades": 1,
+        "subtotal": 22,
+        "IVA": 21,
+        "total": 26.62
+      },
+      {
+        "nombre": "Guantes",
+        "descripcion": "Piel reforzada / negro",
+        "precio": 12,
+        "unidades": 1,
+        "subtotal": 12,
+        "IVA": 21,
+        "total": 14.52
+      }
+    ],
+    "precio": {
+      "base": 597.00,
+      "IVA": {
+        "tipo": 21,
+        "total": 125.37
+      }
+    },
+    "pago": {
+      "metodo": "transferencia",
+      "direccion": "ES662100641840123456789"
+    }
+  }
+}

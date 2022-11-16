@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Email [
+    <!ELEMENT Email (De, Destinatarios, CC, Asunto, Texto)>
+    <!ELEMENT De (#PCDATA)>
+    <!ELEMENT Destinatarios (Para+)>
+    <!ELEMENT Para (#PCDATA)>
+    <!ELEMENT CC (#PCDATA)>
+    <!ELEMENT Asunto (#PCDATA)>
+    <!ELEMENT Texto (#PCDATA)>
+]>
+<Email>
+    <De></De>
+    <Destinatarios>
+        <Para></Para>
+        <Para></Para>
+    </Destinatarios>
+    <CC></CC>
+    <Asunto></Asunto>
+    <Texto></Texto>
+</Email>
